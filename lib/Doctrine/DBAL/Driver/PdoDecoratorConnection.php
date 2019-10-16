@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Doctrine\DBAL;
+namespace Doctrine\DBAL\Driver;
 
 
 use Doctrine\DBAL\Driver\PDOStatement;
